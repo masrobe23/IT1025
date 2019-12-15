@@ -1,4 +1,5 @@
 ## Executive Summary
+In this lab we will learn about basic python principles and how different graphic files work as well as creating our own vector graphic.
 ### Python IDLE
 ##### Code Examples
 1. A variable would be something like x = 2. X would be your variable and it is stored in RAM for later usage by the program. The author uses spam, eggs, and bacon to reference the Monty Python skit about spam.
@@ -15,3 +16,4 @@ Well for starters, they are all image formats. PNG is a lossless format while JP
 ##### File Properties
 To make my logo it took 11 layers to complete it, and at only 60.4KB it's pretty small as well. I have chosen to open it with Chrome because thats what it supports as well as any other browser I have (Edge, Firefox, etc). 
 ## Conclusion
+This lab was fairly basic but learning about how images are catagorized was interesting and shows just how deep this stuff goes. 
